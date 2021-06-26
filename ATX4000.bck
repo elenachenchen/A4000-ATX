@@ -1,0 +1,90 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V_USER
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5V_USER
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +AV
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP -12V_USER
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP -AV
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP 2N3904
+D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, TO-92
+K NPN Transistor
+F https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf
+$ENDCMP
+#
+$CMP 74FCT841
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+$CMP 74LS244
+D 8 bits Bus Buffer 3 State out
+K TTL Buffer BUS 3State
+$ENDCMP
+#
+$CMP Audio
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Conn_Coaxial
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+$ENDCMP
+#
+$CMP DB15-9
+D 9-pin male D-SUB connector, Mounting Hole
+K connector male D-SUB
+$ENDCMP
+#
+$CMP DB9_Serial
+D 9-pin male D-SUB connector, Mounting Hole
+K connector male D-SUB
+$ENDCMP
+#
+$CMP Jumper_NC_Dual
+D Dual Jumper, normally closed
+K jumper bridge link nc
+$ENDCMP
+#
+$CMP LF347
+D Operational Amplifier
+K quad opamp
+$ENDCMP
+#
+$CMP LM833
+D Operational Amplifier
+K dual opamp
+$ENDCMP
+#
+$CMP Mini-DIN-6
+D 6-pin Mini-DIN connector
+K Mini-DIN
+F http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf
+$ENDCMP
+#
+$CMP Vref
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>H:\Dokumente\Elektronik\ATX4000\ATX4000.sch</source>
+    <date>02.03.2018 18:02:47</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ATX4000.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R1">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9859BA</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98675B</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986779</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986792</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9867AE</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9867CD</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9868F7</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9868FD</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986903</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986909</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98690F</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986915</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986A89</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986A8F</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986A95</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986A9B</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986AA1</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986AA7</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986AAD</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986AB3</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986AB9</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986ABF</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986AC5</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986ACB</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D35</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D3B</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D41</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D47</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D4D</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D53</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A986D59</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CAD</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CB3</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CB9</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CBF</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CC5</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CCB</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CD1</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CD7</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CDD</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CE3</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CE9</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CEF</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CF5</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991CFB</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D01</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D07</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D0D</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D13</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D19</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D1F</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D25</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D2B</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D31</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D37</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D3D</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D43</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D49</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D4F</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D55</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D5B</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A991D61</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A992A42</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A992E91</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>680</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98DFC0</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>680</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E049</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E127</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E208</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E36C</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E44F</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E531</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E616</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E6FE</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E7F1</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E8DF</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98E9D4</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>2.7k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98EACC</tstamp>
+    </comp>
+    <comp ref="R88">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98EBC3</tstamp>
+    </comp>
+    <comp ref="R87">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98ECD9</tstamp>
+    </comp>
+    <comp ref="R86">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98EDE2</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98EEE6</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98EFED</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98F0F3</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98F200</tstamp>
+    </comp>
+    <comp ref="R81">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98F30C</tstamp>
+    </comp>
+    <comp ref="R80">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98F41F</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>1.2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A98F535</tstamp>
+    </comp>
+    <comp ref="U130">
+      <value>74F08</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="74xx" part="74LS08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99529C</tstamp>
+    </comp>
+    <comp ref="C130">
+      <value>0.1uF</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99871C</tstamp>
+    </comp>
+    <comp ref="U215">
+      <value>74F04</value>
+      <footprint>Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm</footprint>
+      <libsource lib="74xx" part="74HC04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9BCBFA</tstamp>
+    </comp>
+    <comp ref="U104">
+      <value>50MhzOSC</value>
+      <footprint>Oscillators:Oscillator_DIP-14</footprint>
+      <libsource lib="ATX4000" part="50MhzOSC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A993FFC</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>0.01uF</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99997A</tstamp>
+    </comp>
+    <comp ref="U106">
+      <value>74LS74</value>
+      <libsource lib="74xx" part="74LS74"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99A333</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>47</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99B161</tstamp>
+    </comp>
+    <comp ref="R128">
+      <value>1K</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99B999</tstamp>
+    </comp>
+    <comp ref="R127">
+      <value>1K</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99C99F</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>0.1uF</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A99D1B1</tstamp>
+    </comp>
+    <comp ref="U102">
+      <value>DS1100Z-25</value>
+      <libsource lib="ATX4000" part="DS1100Z-25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9AA7B9</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>47</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A9B1E89</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ATX4000" part="50MhzOSC">
+      <fields>
+        <field name="Reference">U104</field>
+        <field name="Value">50MhzOSC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="input"/>
+        <pin num="7" name="GND" type="input"/>
+        <pin num="8" name="OUT" type="input"/>
+        <pin num="14" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74HCT04">
+      <aliases>
+        <alias>74HC14</alias>
+        <alias>74HC04</alias>
+        <alias>74LS14</alias>
+      </aliases>
+      <description>Hex Inverseur</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HCT04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="output"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="output"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="output"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS08">
+      <aliases>
+        <alias>74LS09</alias>
+      </aliases>
+      <description>Quad And2</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="output"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="output"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="output"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xx" part="74LS74">
+      <aliases>
+        <alias>74HC74</alias>
+      </aliases>
+      <description>Dual D FlipFlop, Set &amp; Reset</description>
+      <docs>74xx/74hc_hct74.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS74</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Cd" type="input"/>
+        <pin num="2" name="D" type="input"/>
+        <pin num="3" name="Cp" type="input"/>
+        <pin num="4" name="Sd" type="input"/>
+        <pin num="5" name="Q" type="output"/>
+        <pin num="6" name="~Q" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~Q" type="output"/>
+        <pin num="9" name="Q" type="output"/>
+        <pin num="10" name="Sd" type="input"/>
+        <pin num="11" name="Cp" type="input"/>
+        <pin num="12" name="D" type="input"/>
+        <pin num="13" name="Cd" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ATX4000" part="DS1100Z-25">
+      <fields>
+        <field name="Reference">U102</field>
+        <field name="Value">DS1100Z-25</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="T2" type="input"/>
+        <pin num="3" name="T4" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="T5" type="input"/>
+        <pin num="6" name="T3" type="input"/>
+        <pin num="7" name="T1" type="input"/>
+        <pin num="8" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ATX4000">
+      <uri>H:\Dokumente\Elektronik\ATX4000\ATX4000.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\share\kicad\library\74xx.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="_BGACK">
+      <node ref="R84" pin="2"/>
+    </net>
+    <net code="2" name="FC1">
+      <node ref="R75" pin="2"/>
+    </net>
+    <net code="3" name="FC2">
+      <node ref="R76" pin="2"/>
+    </net>
+    <net code="4" name="SIZ1">
+      <node ref="R77" pin="2"/>
+    </net>
+    <net code="5" name="SIZ0">
+      <node ref="R78" pin="2"/>
+    </net>
+    <net code="6" name="_RMC">
+      <node ref="R88" pin="2"/>
+    </net>
+    <net code="7" name="_CIIN">
+      <node ref="R87" pin="2"/>
+    </net>
+    <net code="8" name="_AVEC">
+      <node ref="R86" pin="2"/>
+    </net>
+    <net code="9" name="_BR">
+      <node ref="R85" pin="2"/>
+    </net>
+    <net code="10" name="FC0">
+      <node ref="R74" pin="2"/>
+    </net>
+    <net code="11" name="_AS">
+      <node ref="R83" pin="2"/>
+    </net>
+    <net code="12" name="R_W">
+      <node ref="U215" pin="13"/>
+      <node ref="U130" pin="5"/>
+      <node ref="R81" pin="2"/>
+    </net>
+    <net code="13" name="_CBREQ">
+      <node ref="R80" pin="2"/>
+    </net>
+    <net code="14" name="_DS">
+      <node ref="R82" pin="2"/>
+    </net>
+    <net code="15" name="_DMAEN">
+      <node ref="R79" pin="2"/>
+    </net>
+    <net code="16" name="_DSACK0">
+      <node ref="R65" pin="2"/>
+    </net>
+    <net code="17" name="_DSACK1">
+      <node ref="R66" pin="2"/>
+    </net>
+    <net code="18" name="_STERM">
+      <node ref="R67" pin="2"/>
+    </net>
+    <net code="19" name="_CBACK">
+      <node ref="R68" pin="2"/>
+    </net>
+    <net code="20" name="_BERR">
+      <node ref="R70" pin="2"/>
+    </net>
+    <net code="21" name="_BG30">
+      <node ref="R71" pin="2"/>
+    </net>
+    <net code="22" name="HLT">
+      <node ref="R72" pin="2"/>
+    </net>
+    <net code="23" name="_EMUL">
+      <node ref="R73" pin="2"/>
+    </net>
+    <net code="24" name="Net-(U130-Pad2)">
+      <node ref="U130" pin="2"/>
+    </net>
+    <net code="25" name="Net-(U130-Pad3)">
+      <node ref="U130" pin="3"/>
+    </net>
+    <net code="26" name="GND">
+      <node ref="U130" pin="10"/>
+      <node ref="U130" pin="1"/>
+      <node ref="U215" pin="7"/>
+      <node ref="C130" pin="2"/>
+      <node ref="U106" pin="7"/>
+      <node ref="U130" pin="7"/>
+      <node ref="U130" pin="13"/>
+      <node ref="C106" pin="2"/>
+      <node ref="U104" pin="7"/>
+    </net>
+    <net code="27" name="BR_W">
+      <node ref="U130" pin="6"/>
+    </net>
+    <net code="28" name="Net-(U130-Pad8)">
+      <node ref="U130" pin="8"/>
+    </net>
+    <net code="29" name="Net-(U130-Pad9)">
+      <node ref="U130" pin="9"/>
+    </net>
+    <net code="30" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="R33" pin="1"/>
+    </net>
+    <net code="31" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="33" name="Net-(R33-Pad2)">
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="35" name="Net-(U106-Pad9)">
+      <node ref="U106" pin="9"/>
+    </net>
+    <net code="36" name="Net-(R127-Pad1)">
+      <node ref="U106" pin="4"/>
+      <node ref="R127" pin="1"/>
+    </net>
+    <net code="37" name="Net-(U106-Pad5)">
+      <node ref="U106" pin="5"/>
+    </net>
+    <net code="38" name="Net-(U106-Pad8)">
+      <node ref="U106" pin="8"/>
+    </net>
+    <net code="39" name="Net-(R102-Pad1)">
+      <node ref="U106" pin="2"/>
+      <node ref="R102" pin="1"/>
+      <node ref="U106" pin="6"/>
+    </net>
+    <net code="40" name="Net-(U106-Pad10)">
+      <node ref="U106" pin="10"/>
+    </net>
+    <net code="41" name="Net-(U106-Pad11)">
+      <node ref="U106" pin="11"/>
+    </net>
+    <net code="42" name="Net-(U106-Pad12)">
+      <node ref="U106" pin="12"/>
+    </net>
+    <net code="43" name="Net-(U106-Pad13)">
+      <node ref="U106" pin="13"/>
+    </net>
+    <net code="44" name="Net-(R101-Pad1)">
+      <node ref="U106" pin="3"/>
+      <node ref="R101" pin="1"/>
+    </net>
+    <net code="45" name="Net-(R101-Pad2)">
+      <node ref="U104" pin="8"/>
+      <node ref="R101" pin="2"/>
+    </net>
+    <net code="46" name="+5V">
+      <node ref="R41" pin="1"/>
+      <node ref="R40" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R43" pin="1"/>
+      <node ref="R17" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R53" pin="1"/>
+      <node ref="R54" pin="1"/>
+      <node ref="R55" pin="1"/>
+      <node ref="R18" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R38" pin="1"/>
+      <node ref="R39" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R52" pin="1"/>
+      <node ref="R44" pin="1"/>
+      <node ref="R45" pin="1"/>
+      <node ref="R63" pin="1"/>
+      <node ref="R46" pin="1"/>
+      <node ref="R56" pin="1"/>
+      <node ref="R64" pin="1"/>
+      <node ref="R20" pin="1"/>
+      <node ref="R21" pin="1"/>
+      <node ref="R22" pin="1"/>
+      <node ref="R23" pin="1"/>
+      <node ref="R24" pin="1"/>
+      <node ref="R25" pin="1"/>
+      <node ref="R62" pin="1"/>
+      <node ref="R26" pin="1"/>
+      <node ref="R27" pin="1"/>
+      <node ref="R28" pin="1"/>
+      <node ref="R61" pin="1"/>
+      <node ref="R57" pin="1"/>
+      <node ref="R58" pin="1"/>
+      <node ref="R59" pin="1"/>
+      <node ref="R37" pin="1"/>
+      <node ref="R50" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R49" pin="1"/>
+      <node ref="R48" pin="1"/>
+      <node ref="R60" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R47" pin="1"/>
+      <node ref="R51" pin="1"/>
+      <node ref="R36" pin="1"/>
+      <node ref="R30" pin="1"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R35" pin="1"/>
+      <node ref="R34" pin="1"/>
+      <node ref="R29" pin="1"/>
+      <node ref="R81" pin="1"/>
+      <node ref="U106" pin="14"/>
+      <node ref="C104" pin="1"/>
+      <node ref="U104" pin="14"/>
+      <node ref="R80" pin="1"/>
+      <node ref="R82" pin="1"/>
+      <node ref="R83" pin="1"/>
+      <node ref="R85" pin="1"/>
+      <node ref="R86" pin="1"/>
+      <node ref="R87" pin="1"/>
+      <node ref="R88" pin="1"/>
+      <node ref="R84" pin="1"/>
+      <node ref="U130" pin="14"/>
+      <node ref="C106" pin="1"/>
+      <node ref="R127" pin="2"/>
+      <node ref="R128" pin="2"/>
+      <node ref="R67" pin="1"/>
+      <node ref="R72" pin="1"/>
+      <node ref="R71" pin="1"/>
+      <node ref="R70" pin="1"/>
+      <node ref="R68" pin="1"/>
+      <node ref="R73" pin="1"/>
+      <node ref="U130" pin="4"/>
+      <node ref="R74" pin="1"/>
+      <node ref="R79" pin="1"/>
+      <node ref="R66" pin="1"/>
+      <node ref="R65" pin="1"/>
+      <node ref="R78" pin="1"/>
+      <node ref="R32" pin="1"/>
+      <node ref="R77" pin="1"/>
+      <node ref="R76" pin="1"/>
+      <node ref="R75" pin="1"/>
+      <node ref="C130" pin="1"/>
+      <node ref="U215" pin="14"/>
+    </net>
+    <net code="47" name="Net-(C104-Pad2)">
+      <node ref="C104" pin="2"/>
+    </net>
+    <net code="48" name="Net-(U102-Pad4)">
+      <node ref="U102" pin="4"/>
+    </net>
+    <net code="49" name="Net-(U102-Pad2)">
+      <node ref="U102" pin="2"/>
+    </net>
+    <net code="50" name="Net-(U102-Pad3)">
+      <node ref="U102" pin="3"/>
+    </net>
+    <net code="51" name="Net-(U102-Pad5)">
+      <node ref="U102" pin="5"/>
+    </net>
+    <net code="52" name="Net-(U102-Pad6)">
+      <node ref="U102" pin="6"/>
+    </net>
+    <net code="53" name="Net-(U102-Pad7)">
+      <node ref="U102" pin="7"/>
+    </net>
+    <net code="54" name="Net-(U102-Pad8)">
+      <node ref="U102" pin="8"/>
+    </net>
+    <net code="55" name="Net-(R102-Pad2)">
+      <node ref="R102" pin="2"/>
+      <node ref="U102" pin="1"/>
+    </net>
+    <net code="56" name="Net-(R128-Pad1)">
+      <node ref="U106" pin="1"/>
+      <node ref="R128" pin="1"/>
+    </net>
+    <net code="57" name="Net-(U130-Pad12)">
+      <node ref="U130" pin="12"/>
+    </net>
+    <net code="58" name="Net-(U130-Pad11)">
+      <node ref="U130" pin="11"/>
+    </net>
+    <net code="59" name="Net-(U215-Pad1)">
+      <node ref="U215" pin="1"/>
+    </net>
+    <net code="60" name="Net-(U215-Pad10)">
+      <node ref="U215" pin="10"/>
+    </net>
+    <net code="61" name="Net-(U215-Pad11)">
+      <node ref="U215" pin="11"/>
+    </net>
+    <net code="62" name="Net-(U215-Pad9)">
+      <node ref="U215" pin="9"/>
+    </net>
+    <net code="63" name="_R_W">
+      <node ref="U215" pin="12"/>
+    </net>
+    <net code="64" name="Net-(U104-Pad1)">
+      <node ref="U104" pin="1"/>
+    </net>
+    <net code="65" name="Net-(U215-Pad2)">
+      <node ref="U215" pin="2"/>
+    </net>
+    <net code="66" name="Net-(U215-Pad3)">
+      <node ref="U215" pin="3"/>
+    </net>
+    <net code="67" name="Net-(U215-Pad4)">
+      <node ref="U215" pin="4"/>
+    </net>
+    <net code="68" name="Net-(U215-Pad5)">
+      <node ref="U215" pin="5"/>
+    </net>
+    <net code="69" name="Net-(U215-Pad6)">
+      <node ref="U215" pin="6"/>
+    </net>
+    <net code="70" name="Net-(U215-Pad8)">
+      <node ref="U215" pin="8"/>
+    </net>
+    <net code="100" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="101" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="102" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="103" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="104" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="105" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="106" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="107" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="108" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="109" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="110" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="111" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="112" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="113" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="114" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+    </net>
+    <net code="115" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="116" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="117" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="118" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="119" name="Net-(R29-Pad2)">
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="120" name="Net-(R30-Pad2)">
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="121" name="Net-(R31-Pad2)">
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="122" name="Net-(R24-Pad2)">
+      <node ref="R24" pin="2"/>
+    </net>
+    <net code="123" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="124" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="125" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2"/>
+    </net>
+    <net code="126" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="128" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="129" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2"/>
+    </net>
+    <net code="130" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="131" name="Net-(R28-Pad2)">
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="152" name="Net-(R56-Pad2)">
+      <node ref="R56" pin="2"/>
+    </net>
+    <net code="153" name="Net-(R57-Pad2)">
+      <node ref="R57" pin="2"/>
+    </net>
+    <net code="154" name="Net-(R58-Pad2)">
+      <node ref="R58" pin="2"/>
+    </net>
+    <net code="155" name="Net-(R59-Pad2)">
+      <node ref="R59" pin="2"/>
+    </net>
+    <net code="156" name="Net-(R60-Pad2)">
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="158" name="Net-(R61-Pad2)">
+      <node ref="R61" pin="2"/>
+    </net>
+    <net code="159" name="Net-(R62-Pad2)">
+      <node ref="R62" pin="2"/>
+    </net>
+    <net code="160" name="Net-(R63-Pad2)">
+      <node ref="R63" pin="2"/>
+    </net>
+    <net code="161" name="Net-(R64-Pad2)">
+      <node ref="R64" pin="2"/>
+    </net>
+    <net code="172" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2"/>
+    </net>
+    <net code="173" name="Net-(R35-Pad2)">
+      <node ref="R35" pin="2"/>
+    </net>
+    <net code="174" name="Net-(R36-Pad2)">
+      <node ref="R36" pin="2"/>
+    </net>
+    <net code="176" name="Net-(R51-Pad2)">
+      <node ref="R51" pin="2"/>
+    </net>
+    <net code="177" name="Net-(R47-Pad2)">
+      <node ref="R47" pin="2"/>
+    </net>
+    <net code="178" name="Net-(R48-Pad2)">
+      <node ref="R48" pin="2"/>
+    </net>
+    <net code="179" name="Net-(R49-Pad2)">
+      <node ref="R49" pin="2"/>
+    </net>
+    <net code="180" name="Net-(R50-Pad2)">
+      <node ref="R50" pin="2"/>
+    </net>
+    <net code="181" name="Net-(R46-Pad2)">
+      <node ref="R46" pin="2"/>
+    </net>
+    <net code="182" name="Net-(R52-Pad2)">
+      <node ref="R52" pin="2"/>
+    </net>
+    <net code="183" name="Net-(R53-Pad2)">
+      <node ref="R53" pin="2"/>
+    </net>
+    <net code="184" name="Net-(R54-Pad2)">
+      <node ref="R54" pin="2"/>
+    </net>
+    <net code="185" name="Net-(R55-Pad2)">
+      <node ref="R55" pin="2"/>
+    </net>
+    <net code="186" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2"/>
+    </net>
+    <net code="187" name="Net-(R38-Pad2)">
+      <node ref="R38" pin="2"/>
+    </net>
+    <net code="188" name="Net-(R39-Pad2)">
+      <node ref="R39" pin="2"/>
+    </net>
+    <net code="189" name="Net-(R40-Pad2)">
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="190" name="Net-(R41-Pad2)">
+      <node ref="R41" pin="2"/>
+    </net>
+    <net code="191" name="Net-(R42-Pad2)">
+      <node ref="R42" pin="2"/>
+    </net>
+    <net code="192" name="Net-(R43-Pad2)">
+      <node ref="R43" pin="2"/>
+    </net>
+    <net code="193" name="Net-(R44-Pad2)">
+      <node ref="R44" pin="2"/>
+    </net>
+    <net code="194" name="Net-(R45-Pad2)">
+      <node ref="R45" pin="2"/>
+    </net>
+  </nets>
+</export>
