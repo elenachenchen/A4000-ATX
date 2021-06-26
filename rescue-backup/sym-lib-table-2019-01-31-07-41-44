@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ATX4000-rescue)(type Legacy)(uri ${KIPRJMOD}/ATX4000-rescue.lib)(options "")(descr ""))
+  (lib (name ATX4000)(type Legacy)(uri ${KIPRJMOD}/ATX4000.lib)(options "")(descr ""))
+)
